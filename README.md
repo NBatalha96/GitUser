@@ -25,7 +25,7 @@ Done:
 
 Not done:
 * List with followers (Could have done if I had a little more time)
-* Avatar might not appear (Simply because after found the user, it jumps to Details Activity before it has the time to download the Avatar)
+* Avatar might not appear (Simply because after found the user, it jumps to Details Activity before it has the time to download the Avatar. Change the orientation and the Avatar will appear)
 
 Apologies
 -
