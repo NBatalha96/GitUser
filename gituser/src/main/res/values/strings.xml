@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GitUser</string>
+    <string name="search_bt">Search</string>
+    <string name="iv_description">Profile picture</string>
+    <string name="tv_name_label">Name:</string>
+    <string name="tv_email_label">Email:</string>
+    <string name="ed_user_hint">Username / Email</string>
 </resources>
